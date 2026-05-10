@@ -1,36 +1,36 @@
 ## Hey there 👋, I'm [Omar!](https://github.com/haneaomar2-prog/)
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A69A?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/HANIAQNT)
+[![Telegram Badge](https://img.shields.io/badge/-@Oamrpika-26A69A?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Oamrpika)
 [![Website Badge](https://img.shields.io/badge/-HANIA.QNT-C8973A?style=flat-square&logo=google-chrome&logoColor=white)](https://haneaomar2-prog.github.io/hania-qnt1)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:haneaomar2@gmail.com)
 
 ### Glad to see you here!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneaomar2-prog&label=Profile%20views&color=26A69A&style=flat" alt="haneaomar2-prog" /> </p>
 
-I am a **Quantitative Crypto Developer** building algorithmic trading systems based on **ICT & Smart Money Concepts**. I design Python-based engines that analyse markets the way institutions do — reading order flow, liquidity pools, and price delivery algorithms. 🚀
+I'm a **Math graduate** turned **AI-powered trading tool developer** — bridging the gap between quantitative reasoning and artificial intelligence to build the next generation of market intelligence systems.
 
-I have a passion for problem-solving and first-principle thinking in quantitative finance. My foundation is built on Python, asyncio, FastAPI, and the Binance API — with a deep focus on multi-timeframe market structure analysis and automated trade management.
+My belief is simple: *programming languages, frameworks, and tools are no longer the ceiling — they're just instruments. The real edge belongs to those who think clearly, direct AI precisely, and build with purpose.* With that mindset, I've engineered a full algorithmic trading ecosystem from scratch using Python and AI assistance — something that once required entire teams.
 
-I'm an explorer of market microstructure, an avid learner of quantitative methods, and a builder at heart. When I'm not coding, I'm studying price action and refining the engine.
+I'm deeply interested in **how AI is reshaping quantitative finance** — not just automating tasks, but fundamentally changing how we interact with markets, analyse data, and build systems.
 
-Feel free to connect with me [@HANIAQNT](https://t.me/HANIAQNT) for all things quant trading or just to say hello! 🌟
-
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
+<img align="right" height="220" width="350" alt="Pikachu Trading" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I'm currently building **HANIA Engine v4** — ICT/SMC Algorithmic Bot
-- 🚀 &nbsp; I'm currently exploring **Quantitative Finance, Order Flow & Market Microstructure**
-- 💬 &nbsp; Ask me anything about **ICT, SMC, Python asyncio, or algo trading**
-- 👾 &nbsp; Fun fact: Smart Money always leaves footprints — you just have to know where to look
-- 📫 &nbsp; Reach me out: haneaomar2@gmail.com
-- 🌍 &nbsp; Based in **Germany** 🇩🇪 · Originally from **Syria** 🇸🇾
+- 🧠 &nbsp; The way I see it: **AI is the leverage — human thinking is the edge**
+- 🛠 &nbsp; Building **HANIA Engine v4** — AI-assisted ICT/SMC Trading Bot
+- 🎓 &nbsp; Mathematics graduate — probability, logic & precision are in my DNA
+- 🚀 &nbsp; Exploring **AI × Quantitative Finance** — where the future lives
+- 🇵🇸 &nbsp; Palestinian, based in **Germany** 🇩🇪
+- 💬 &nbsp; Talk to me about **AI tools, algo trading, ICT/SMC, or pure math**
+- 📫 &nbsp; Reach me: haneaomar2@gmail.com
 
-### My Absolute Favorites:
+### What I Actually Believe:
 
-- 💻 &nbsp; Building trading systems that think like institutions
-- 📰 &nbsp; Studying ICT methodology and market microstructure
-- 📊 &nbsp; Backtesting strategies and optimising entry logic
+- 🤖 &nbsp; Anyone who masters *directing* AI will outperform anyone who just masters code
+- 📊 &nbsp; Markets are mathematical — and mathematics never lies
+- 🔬 &nbsp; The best trading edge isn't a secret indicator — it's institutional thinking
+- 💡 &nbsp; Open-mindedness is a compounding asset, just like capital
 
 ### Languages and Tools:
 
@@ -45,23 +45,22 @@ Feel free to connect with me [@HANIAQNT](https://t.me/HANIAQNT) for all things q
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>🚀 HANIA Engine — ICT/SMC Algorithmic Trading Bot</b></summary>
+  <summary><b>⚡ HANIA Engine — AI-Assisted ICT/SMC Trading System</b></summary>
 
   <br />
 
-  A production-grade quantitative trading engine built in Python (asyncio) that analyses crypto markets using ICT & Smart Money Concepts methodology.
+  A production-grade quantitative trading engine — conceived, directed, and continuously improved using AI as a development partner. This project is proof that with clear thinking and the right AI collaboration, one person can build what once required an entire quant team.
 
-  **Core Features:**
-  - 🔍 **DynamicWaveTracker** — Real-time swing high/low tracking without lookahead bias
-  - 📐 **OTE Zone Detection** — Fibonacci 61.8%–70.5% optimal trade entry
-  - 🕰️ **Multi-Timeframe Analysis** — Daily → 4h → 1h → 15m full pipeline
-  - 🎯 **ICT Sequence** — CHoCH + Displacement + FVG confirmation logic
-  - 📈 **Fib Extensions** — TP1 (100%) · TP2 (1.272) · TP3 (1.618)
-  - 💼 **Paper Trading Engine** — Auto risk management, Trailing SL, Break Even
-  - 🔔 **Daily Scanner** — Scans 50 pairs automatically every day
-  - 📊 **Excel Journal** — Full trade log with performance analytics
-  - 🌐 **FastAPI Backend** — REST API connecting bot to web dashboard
-  - 🤖 **Telegram Bot** — Real-time alerts with grade A/B/C signal quality
+  **What it does:**
+  - 🔍 **DynamicWaveTracker** — Real-time swing structure without lookahead bias
+  - 📐 **OTE Detection** — Fibonacci 61.8–70.5% institutional entry zones
+  - 🕰️ **Multi-Timeframe Pipeline** — Daily → 4h → 1h → 15m analysis chain
+  - 🎯 **ICT Sequence Engine** — CHoCH + Displacement + FVG confirmation
+  - 📈 **Extension Targets** — TP1 · TP2 (1.272) · TP3 (1.618)
+  - 💼 **Auto Trade Management** — Trailing SL, Break Even, Risk grading
+  - 🔔 **50-Pair Daily Scanner** — Automated market-wide opportunity detection
+  - 📊 **Excel Journal + FastAPI** — Full analytics backend
+  - 🤖 **Telegram Bot** — Grade A/B/C signal delivery in real time
 
 </details>
 
@@ -86,13 +85,14 @@ Feel free to connect with me [@HANIAQNT](https://t.me/HANIAQNT) for all things q
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   <ul>
+      <li><b>AI Partner:</b> Claude — for architecture, code, and thinking out loud</li>
       <li><b>OS:</b> Ubuntu Server (VPS) + Windows 11</li>
       <li><b>Editor:</b> VS Code with Remote SSH</li>
-      <li><b>Terminal:</b> bash / screen (for 24/7 bot running)</li>
-      <li><b>Database:</b> SQLite with aiosqlite</li>
-      <li><b>Deployment:</b> VPS Server + GitHub Pages</li>
+      <li><b>Runtime:</b> screen sessions — 24/7 bot uptime</li>
+      <li><b>Database:</b> SQLite + aiosqlite</li>
+      <li><b>Deployment:</b> VPS + GitHub Pages</li>
       <li><b>Monitoring:</b> Telegram Bot alerts</li>
-      <li><b>To Stay Updated:</b> ICT YouTube, Quantitative Finance research</li>
+      <li><b>Learning:</b> ICT methodology, AI research papers, quantitative finance</li>
   </ul>
 </details>
 
@@ -109,6 +109,6 @@ Feel free to connect with me [@HANIAQNT](https://t.me/HANIAQNT) for all things q
 
 ### Show some ❤️ by starring some of the repositories!
 
-*"Where Institutions Move, HANIA Follows"*
+*"Tools are borrowed. Thinking is owned."*
 
 </div>

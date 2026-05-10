@@ -15,7 +15,7 @@ I'm an explorer of market microstructure, an avid learner of quantitative method
 
 Feel free to connect with me [@HANIAQNT](https://t.me/HANIAQNT) for all things quant trading or just to say hello! 🌟
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -97,9 +97,9 @@ Feel free to connect with me [@HANIAQNT](https://t.me/HANIAQNT) for all things q
 </details>
 
 <hr>
-<h3 align="left">✨ Random Dev Quote:</h3>
+<h3 align="left">📈 Trading Quote:</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20market%20is%20a%20device%20for%20transferring%20money%20from%20the%20impatient%20to%20the%20patient.&author=Warren%20Buffett" alt="Trading Quote" />
 </p>
 <hr>
 

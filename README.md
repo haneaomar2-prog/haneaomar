@@ -1,163 +1,114 @@
-<div align="center">
+## Hey there 👋, I'm [Omar!](https://github.com/haneaomar2-prog/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=3000&pause=1000&color=26A69A&center=true&vCenter=true&width=600&lines=OMAR+HANEA+—+HANIA.QNT;Quantitative+Crypto+Developer;ICT+%2F+SMC+Specialist" alt="Typing SVG" />
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A69A?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/HANIAQNT)
+[![Website Badge](https://img.shields.io/badge/-HANIA.QNT-C8973A?style=flat-square&logo=google-chrome&logoColor=white)](https://haneaomar2-prog.github.io/hania-qnt1)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:haneaomar2@gmail.com)
 
-<br/>
+### Glad to see you here!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haneaomar2-prog&label=Profile%20views&color=26A69A&style=flat" alt="haneaomar2-prog" /> </p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-HANIAQNT-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HANIAQNT)
-[![Website](https://img.shields.io/badge/Website-HANIA.QNT-C8973A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haneaomar2-prog.github.io/hania-qnt1)
-[![Email](https://img.shields.io/badge/Email-haneaomar2@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haneaomar2@gmail.com)
+I am a **Quantitative Crypto Developer** building algorithmic trading systems based on **ICT & Smart Money Concepts**. I design Python-based engines that analyse markets the way institutions do — reading order flow, liquidity pools, and price delivery algorithms. 🚀
 
-<img src="https://komarev.com/ghpvc/?username=haneaomar2-prog&label=Profile+Views&color=26A69A&style=flat-square" alt="views" />
+I have a passion for problem-solving and first-principle thinking in quantitative finance. My foundation is built on Python, asyncio, FastAPI, and the Binance API — with a deep focus on multi-timeframe market structure analysis and automated trade management.
 
-</div>
+I'm an explorer of market microstructure, an avid learner of quantitative methods, and a builder at heart. When I'm not coding, I'm studying price action and refining the engine.
 
----
+Feel free to connect with me [@HANIAQNT](https://t.me/HANIAQNT) for all things quant trading or just to say hello! 🌟
 
-```python
-class OmarHanea:
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-    name       = "Omar Hanea"
-    alias      = "HANIA.QNT"
-    location   = "Germany 🇩🇪"
-    focus      = "Quantitative Crypto Trading Systems"
-    methodology = ["ICT", "Smart Money Concepts", "Order Flow Analysis"]
+### Talking about Personal Stuff:
 
-    stack = {
-        "language":  "Python 3.11+",
-        "async":     "asyncio / aiohttp / aiosqlite",
-        "api":       "FastAPI / Telegram Bot API / Binance API",
-        "data":      "pandas / numpy / ccxt",
-        "storage":   "SQLite / openpyxl",
-    }
+- 🛠 &nbsp; I'm currently building **HANIA Engine v4** — ICT/SMC Algorithmic Bot
+- 🚀 &nbsp; I'm currently exploring **Quantitative Finance, Order Flow & Market Microstructure**
+- 💬 &nbsp; Ask me anything about **ICT, SMC, Python asyncio, or algo trading**
+- 👾 &nbsp; Fun fact: Smart Money always leaves footprints — you just have to know where to look
+- 📫 &nbsp; Reach me out: haneaomar2@gmail.com
+- 🌍 &nbsp; Based in **Germany** 🇩🇪 · Originally from **Syria** 🇸🇾
 
-    currently_building = "HANIA Engine v4 — ICT/SMC Algorithmic Bot"
-    languages          = ["Arabic (Native)", "German (B1→B2)", "English (Basic)"]
-```
+### My Absolute Favorites:
 
----
+- 💻 &nbsp; Building trading systems that think like institutions
+- 📰 &nbsp; Studying ICT methodology and market microstructure
+- 📊 &nbsp; Backtesting strategies and optimising entry logic
 
-## 🚀 HANIA Engine — المشروع الرئيسي
+### Languages and Tools:
 
-> محرك تحليل كمي يعمل 24/7 للعملات الرقمية — مبني على منهجية ICT وSmart Money Concepts
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sqlite"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-```
-┌─────────────────────────────────────────────────────────┐
-│              HANIA ENGINE v4.0 — ARCHITECTURE           │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Binance API ──► DataFetcher ──► MultiTimeframeEngine   │
-│                                        │                │
-│                              ┌─────────▼─────────┐      │
-│                              │  StructureEngine  │      │
-│                              │  DynamicWaveTrack │      │
-│                              │  OTEEngine        │      │
-│                              │  FVGEngine        │      │
-│                              │  LiquidityEngine  │      │
-│                              └─────────┬─────────┘      │
-│                                        │                │
-│                              ┌─────────▼─────────┐      │
-│                              │  LTF Confirmation │      │
-│                              │  CHoCH+Disp+FVG  │      │
-│                              └─────────┬─────────┘      │
-│                                        │                │
-│                         Telegram Alert + Paper Trade    │
-│                         Excel Journal + FastAPI         │
-└─────────────────────────────────────────────────────────┘
-```
+### Projects and Dev Stuffs:
 
-### ✅ المميزات
+<details>
+  <summary><b>🚀 HANIA Engine — ICT/SMC Algorithmic Trading Bot</b></summary>
 
-| الميزة | التفاصيل |
-|--------|----------|
-| 🔍 **DynamicWaveTracker** | تتبع القمم والقيعان ديناميكياً في الوقت الفعلي |
-| 📐 **OTE Zone Detection** | فيبوناتشي 61.8%–70.5% بدون Lookahead Bias |
-| 🕰️ **Multi-Timeframe** | Daily → 4h → 1h → 15m تحليل متكامل |
-| 🎯 **ICT Sequence** | CHoCH + Displacement + FVG للدخول |
-| 📈 **Extensions** | أهداف 1.272 و 1.618 مع دخول عكسي تلقائي |
-| 💼 **Paper Trading** | إدارة مخاطر تلقائية + Trailing SL + Break Even |
-| 🔔 **Daily Scan** | فحص 50 عملة يومياً تلقائياً |
-| 📊 **Excel Journal** | تصدير كامل للصفقات والإحصائيات |
-| 🌐 **FastAPI Backend** | API لربط الموقع بالبوت مباشرة |
+  <br />
 
----
+  A production-grade quantitative trading engine built in Python (asyncio) that analyses crypto markets using ICT & Smart Money Concepts methodology.
 
-## 🛠️ Stack التقني
+  **Core Features:**
+  - 🔍 **DynamicWaveTracker** — Real-time swing high/low tracking without lookahead bias
+  - 📐 **OTE Zone Detection** — Fibonacci 61.8%–70.5% optimal trade entry
+  - 🕰️ **Multi-Timeframe Analysis** — Daily → 4h → 1h → 15m full pipeline
+  - 🎯 **ICT Sequence** — CHoCH + Displacement + FVG confirmation logic
+  - 📈 **Fib Extensions** — TP1 (100%) · TP2 (1.272) · TP3 (1.618)
+  - 💼 **Paper Trading Engine** — Auto risk management, Trailing SL, Break Even
+  - 🔔 **Daily Scanner** — Scans 50 pairs automatically every day
+  - 📊 **Excel Journal** — Full trade log with performance analytics
+  - 🌐 **FastAPI Backend** — REST API connecting bot to web dashboard
+  - 🤖 **Telegram Bot** — Real-time alerts with grade A/B/C signal quality
 
-<div align="center">
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-</div>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haneaomar2-prog&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=26A69A&icon_color=C8973A" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneaomar2-prog&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight&title_color=26A69A"/>
 
----
+</details>
 
-## 📊 منهجية التداول
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
 
-```
-┌──────────────────────────────────────────────────────┐
-│                  ICT/SMC PIPELINE                    │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  HTF (4h/Daily)                                      │
-│  ─────────────                                       │
-│  Market Structure → Swing High/Low → Bias            │
-│         ↓                                            │
-│  DynamicWaveTracker → wave_high / wave_low           │
-│         ↓                                            │
-│  Fibonacci → OTE Zone (61.8% – 70.5%)               │
-│         ↓                                            │
-│  Extensions: TP1=100% | TP2=1.272 | TP3=1.618       │
-│                                                      │
-│  LTF (15m/1h) Confirmation                          │
-│  ──────────────────────────                          │
-│  CHoCH + Displacement + FVG → Entry Signal           │
-│         ↓                                            │
-│  Grade A/B/C → Risk 1%/0.5%/0.25%                   │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=haneaomar2-prog&hide_border=true&theme=tokyonight&ring=26A69A&fire=C8973A&currStreakLabel=26A69A" />
 
----
+</details>
 
-## 📈 GitHub Stats
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <ul>
+      <li><b>OS:</b> Ubuntu Server (VPS) + Windows 11</li>
+      <li><b>Editor:</b> VS Code with Remote SSH</li>
+      <li><b>Terminal:</b> bash / screen (for 24/7 bot running)</li>
+      <li><b>Database:</b> SQLite with aiosqlite</li>
+      <li><b>Deployment:</b> VPS Server + GitHub Pages</li>
+      <li><b>Monitoring:</b> Telegram Bot alerts</li>
+      <li><b>To Stay Updated:</b> ICT YouTube, Quantitative Finance research</li>
+  </ul>
+</details>
+
+<hr>
+<h3 align="left">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+#
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=haneaomar2-prog&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=26A69A&icon_color=C8973A" />
+### Show some ❤️ by starring some of the repositories!
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneaomar2-prog&hide_border=true&layout=compact&theme=tokyonight&title_color=26A69A&langs_count=6" />
-
-</div>
-
----
-
-## 📬 تواصل معي
-
-<div align="center">
-
-| القناة | الرابط |
-|--------|--------|
-| 🌐 الموقع | [hania.qnt](https://haneaomar2-prog.github.io/hania-qnt1) |
-| 📱 تيليجرام | [@HANIAQNT](https://t.me/HANIAQNT) |
-| 📧 البريد | [haneaomar2@gmail.com](mailto:haneaomar2@gmail.com) |
-| 💻 GitHub | [haneaomar2-prog](https://github.com/haneaomar2-prog) |
-
-</div>
-
----
-
-<div align="center">
-
-```
-"Where Institutions Move, HANIA Follows"
-```
-
-⭐ **إذا أعجبك المشروع — اترك نجمة على المستودع!**
+*"Where Institutions Move, HANIA Follows"*
 
 </div>
